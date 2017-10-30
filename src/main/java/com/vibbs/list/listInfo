@@ -1,0 +1,10 @@
+Java List
+
+Some of the important points about Java List are;
+
+Java List interface is a member of the Java Collections Framework.
+List allows you to add duplicate elements.
+List allows you to have ‘null’ elements.
+List interface got many default methods in Java 8, for example replaceAll, sort and spliterator.
+List indexes start from 0, just like arrays.
+List supports Generics and we should use it whenever possible. Using Generics with List will avoid ClassCastException at runtime.
